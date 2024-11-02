@@ -58,7 +58,7 @@
     {
       "id": 40391316,
       "code": "BLAO-009",
-      "rarity": "Ultra Rare",
+      "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -184,7 +184,7 @@
     {
       "id": 51638941,
       "code": "BLAO-030",
-      "rarity": "Super Rare",
+      "rarity": " Rare",
       "image_index": 0
     },
     {
@@ -220,7 +220,7 @@
     {
       "id": 65172015,
       "code": "BLAO-036",
-        "rarity": "Secret Rare",
+        "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -245,7 +245,7 @@
     {
       "id": 73879377,
       "code": "BLAO-040",
-        "rarity": "Super Rare",
+        "rarity": "Rare",
       "image_index": 0
     },
     {
@@ -268,72 +268,78 @@
     },
     {
       "id": 57030525,
-      "code": "BLAO-045",
+      "code": "BLAO-044",
         "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 57030525,
-      "code": "BLAO-046",
+      "code": "BLAO-045",
         "rarity": "Secret Rare",
+      "image_index": 0
+    },
+    {
+      "id": 21546416,
+      "code": "BLAO-046",
+        "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 21546416,
       "code": "BLAO-047",
-        "rarity": "Ultra Rare",
+        "rarity": "Secret Rare",
       "image_index": 0
     },
     {
-      "id": 21546416,
+      "id": 94141712,
       "code": "BLAO-048",
-        "rarity": "Secret Rare",
+        "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 94141712,
       "code": "BLAO-049",
-        "rarity": "Secret Rare",
+        "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
-      "id": 94141712,
+      "id": 84425220,
       "code": "BLAO-050",
-        "rarity": "Ultra Rare",
+        "rarity": "Secret Rare",
       "image_index": 0
     },
     {
       "id": 84425220,
       "code": "BLAO-051",
-        "rarity": "Secret Rare",
+        "rarity": "Rare",
       "image_index": 0
     },
     {
-      "id": 84425220,
+      "id": 57605303,
       "code": "BLAO-052",
-        "rarity": "Collector's Rare",
+        "rarity": "Rare",
       "image_index": 0
     },
     {
       "id": 57605303,
       "code": "BLAO-053",
-        "rarity": "Ultra Rare",
+        "rarity": "Rare",
       "image_index": 0
     },
     {
-      "id": 57605303,
+      "id": 61606250,
       "code": "BLAO-054",
-        "rarity": "Secret Rare",
+        "rarity": "Ultra Rare",
       "image_index": 0
     },
     {
       "id": 61606250,
       "code": "BLAO-055",
-        "rarity": "Ultra Rare",
+        "rarity": "Rare",
       "image_index": 0
     },
     {
-      "id": 61606250,
+      "id": 97091969,
       "code": "BLAO-056",
         "rarity": "Ultra Rare",
       "image_index": 0
@@ -341,11 +347,11 @@
     {
       "id": 97091969,
       "code": "BLAO-057",
-        "rarity": "Ultra Rare",
+        "rarity": "Secret Rare",
       "image_index": 0
     },
     {
-      "id": 97091969,
+      "id": 1855932,
       "code": "BLAO-058",
         "rarity": "Secret Rare",
       "image_index": 0
@@ -353,13 +359,7 @@
     {
       "id": 1855932,
       "code": "BLAO-059",
-        "rarity": "Secret Rare",
-      "image_index": 0
-    },
-    {
-      "id": 1855932,
-      "code": "BLAO-060",
-        "rarity": "Collector's Rare",
+        "rarity": "Rare",
       "image_index": 0
     }
   ]
