@@ -11,16 +11,16 @@
   "attribute": "DARK",
   "atk": 3500,
   "species": "Winged Beast",
+  "monster_type": "Link",
+  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Link",
   "link_rating": 5,
   "link_arrows": [
-    "Right",
-    "Bottom-Right",
-    "Bottom",
+    "Left",
     "Bottom-Left",
-    "Left"
+    "Bottom",
+    "Bottom-Right",
+    "Right"
   ]
 }

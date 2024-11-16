@@ -1,11 +1,13 @@
 {
-  "id": 18144506,
-  "name": "Harpie's Feather Duster",
+  "id": 18144507,
+  "name": "Harpie\u0027s Feather Duster",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Destroy all Spells and Traps your opponent controls.",
+  "text": "Destroy all Spell and Trap Cards your opponent controls.",
   "images": [
-    "https://images.ygoprodeck.com/images/cards/18144506.jpg"
+    "https://images.ygoprodeck.com/images/cards/18144507.jpg",
+    "https://images.ygoprodeck.com/images/cards/18144506.jpg",
+    "https://media.discordapp.net/attachments/1167930983425781781/1268230762205937705/Harpies_Feather_Duster.jpg?ex=66abab70&is=66aa59f0&hm=48fc9a48fd870770d01a51a2a051744eb2f813bce2996e5c710c9232e49e1828&=&format=webp&width=372&height=543"
   ],
   "type": "Spell",
   "spell_type": "Normal"

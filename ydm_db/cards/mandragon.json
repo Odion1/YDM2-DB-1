@@ -3,7 +3,7 @@
   "name": "Mandragon",
   "is_illegal": false,
   "is_custom": false,
-  "text": "This mandragora harbors the soul of a sorrowful dragon. The cursed tones of its wailing cause both fear and despair.",
+  "text": "\u0027\u0027This mandragora harbors the soul of a sorrowful dragon. The cursed tones of its wailing cause both fear and despair.\u0027\u0027",
   "images": [
     "https://images.ygoprodeck.com/images/cards/19474136.jpg"
   ],
@@ -11,14 +11,14 @@
   "attribute": "EARTH",
   "atk": 2500,
   "species": "Plant",
-  "ability": "",
-  "has_effect": false,
   "monster_type": "",
   "is_pendulum": true,
-  "pendulum_text": "",
-  "pendulum_scale_left_blue": 2,
-  "pendulum_scale_right_red": 2,
+  "ability": "",
+  "has_effect": false,
   "def": 1000,
   "level": 5,
-  "is_tuner": false
+  "is_tuner": false,
+  "pendulum_text": "",
+  "pendulum_scale_left_blue": 2,
+  "pendulum_scale_right_red": 2
 }

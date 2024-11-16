@@ -3,7 +3,7 @@
   "name": "Fukubiki",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Each player shuffles their Deck and excavates the top card of their Deck. Add the excavated card with the higher ATK to that player's hand, also send the card with the lower ATK to that player's GY (Spells/Traps, and monsters with ? ATK, are treated as 0). If tied, place those cards on the bottoms of the Decks.",
+  "text": "Each player shuffles their Deck and excavates the top card of their Deck. Add the excavated card with the higher ATK to that player\u0027s hand, also send the card with the lower ATK to that player\u0027s GY (Spells/Traps, and monsters with ? ATK, are treated as 0). If tied, place those cards on the bottoms of the Decks.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/54927180.jpg"
   ],

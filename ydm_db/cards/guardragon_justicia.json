@@ -3,7 +3,7 @@
   "name": "Guardragon Justicia",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The fate of the World depends on the Guardragons, born from the World Legacy.",
+  "text": "\u0027\u0027The fate of the World depends on the Guardragons, born from the World Legacy.\u0027\u0027",
   "images": [
     "https://images.ygoprodeck.com/images/cards/11012154.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WATER",
   "atk": 0,
   "species": "Dragon",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
   "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
   "def": 2100,
   "level": 2,
   "is_tuner": true

@@ -3,7 +3,7 @@
   "name": "Unknown Warrior of Fiend",
   "is_illegal": false,
   "is_custom": false,
-  "text": "The speed of this warrior creates an intense vacuum that can slice through a monster's hide.",
+  "text": "The speed of this warrior creates an intense vacuum that can slice through a monster\u0027s hide.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/97360116.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 1000,
   "species": "Warrior",
+  "monster_type": "",
+  "is_pendulum": false,
   "ability": "",
   "has_effect": false,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 500,
   "level": 3,
   "is_tuner": false

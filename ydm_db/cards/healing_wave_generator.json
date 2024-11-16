@@ -3,7 +3,7 @@
   "name": "Healing Wave Generator",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Once per turn, you can select another face-up monster you control to gain Life Points equal to that monster's Level x 100.",
+  "text": "Once per turn, you can select another face-up monster you control to gain Life Points equal to that monster\u0027s Level x 100.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/31281980.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 800,
   "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1600,
   "level": 4,
   "is_tuner": false

@@ -3,7 +3,7 @@
   "name": "Bujingi Turtle",
   "is_illegal": false,
   "is_custom": false,
-  "text": "During either player's turn, when a card or effect is activated that targets a \"Bujin\" monster you control (except during the Damage Step): You can banish this card from your Graveyard; negate that effect.",
+  "text": "During either player\u0027s turn, when a card or effect is activated that targets a \"Bujin\" monster you control (except during the Damage Step): You can banish this card from your Graveyard; negate that effect.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/5818294.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 1700,
   "species": "Beast",
+  "monster_type": "",
+  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false
