@@ -3,7 +3,7 @@
   "name": "Hyper Hammerhead",
   "is_illegal": false,
   "is_custom": false,
-  "text": "At the end of the Damage Step, if an opponent\u0027s monster that battled this card is not destroyed: Return that opponent\u0027s monster to the hand.",
+  "text": "At the end of the Damage Step, if an opponent's monster that battled this card is not destroyed: Return that opponent's monster to the hand.",
   "images": [
     "https://images.ygoprodeck.com/images/cards/2671330.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "EARTH",
   "atk": 1500,
   "species": "Dinosaur",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1200,
   "level": 4,
   "is_tuner": false

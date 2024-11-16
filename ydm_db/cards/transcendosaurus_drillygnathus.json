@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 3000,
   "species": "Dinosaur",
-  "monster_type": "Xyz",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Xyz",
   "def": 2300,
   "rank": 6
 }
