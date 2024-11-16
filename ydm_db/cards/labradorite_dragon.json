@@ -11,10 +11,10 @@
   "attribute": "DARK",
   "atk": 0,
   "species": "Dragon",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
   "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
   "def": 2400,
   "level": 6,
   "is_tuner": true

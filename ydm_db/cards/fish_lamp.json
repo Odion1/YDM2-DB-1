@@ -11,11 +11,11 @@
   "attribute": "FIRE",
   "atk": 1200,
   "species": "Fish",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Synchro",
   "def": 400,
   "level": 4,
-  "is_tuner": true
+  "is_tuner": false
 }

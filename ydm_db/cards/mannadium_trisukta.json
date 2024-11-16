@@ -11,11 +11,11 @@
   "attribute": "LIGHT",
   "atk": 2300,
   "species": "Fairy",
+  "monster_type": "Synchro",
+  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "Synchro",
-  "def": 1300,
+  "def": 1200,
   "level": 6,
-  "is_tuner": true
+  "is_tuner": false
 }

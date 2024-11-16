@@ -3,7 +3,7 @@
   "name": "Doll Monster Bear-Bear",
   "is_illegal": false,
   "is_custom": false,
-  "text": "Even if we get damaged, it's okay.\nGrandpa Demetto can patch us up!",
+  "text": "\u0027\u0027Even if we get damaged, it\u0027s okay.\nGrandpa Demetto can patch us up!\u0027\u0027",
   "images": [
     "https://images.ygoprodeck.com/images/cards/18106132.jpg"
   ],
@@ -11,10 +11,10 @@
   "attribute": "WIND",
   "atk": 0,
   "species": "Beast",
-  "ability": "",
-  "has_effect": false,
-  "is_pendulum": false,
   "monster_type": "",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
   "def": 0,
   "level": 4,
   "is_tuner": false

@@ -11,11 +11,11 @@
   "attribute": "FIRE",
   "atk": 500,
   "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": false,
   "ability": "Flip",
   "has_effect": true,
-  "is_pendulum": false,
-  "monster_type": "",
   "def": 1500,
   "level": 3,
-  "is_tuner": true
+  "is_tuner": false
 }
