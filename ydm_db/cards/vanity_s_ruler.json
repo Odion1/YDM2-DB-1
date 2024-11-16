@@ -1,6 +1,6 @@
 {
   "id": 72634965,
-  "name": "Vanity\u0027s Ruler",
+  "name": "Vanity's Ruler",
   "is_illegal": false,
   "is_custom": false,
   "text": "Cannot be Special Summoned. Your opponent cannot Special Summon monsters.",
@@ -11,10 +11,10 @@
   "attribute": "LIGHT",
   "atk": 2500,
   "species": "Fairy",
-  "monster_type": "",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "",
   "def": 1600,
   "level": 8,
   "is_tuner": false

@@ -11,11 +11,11 @@
   "attribute": "LIGHT",
   "atk": 2200,
   "species": "Dragon",
-  "monster_type": "Synchro",
-  "is_pendulum": false,
   "ability": "",
   "has_effect": true,
+  "is_pendulum": false,
+  "monster_type": "Synchro",
   "def": 1000,
   "level": 6,
-  "is_tuner": false
+  "is_tuner": true
 }
